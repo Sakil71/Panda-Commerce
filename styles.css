@@ -1,0 +1,15 @@
+.car-bg{
+    background-color: #fceae8;
+    border-radius: 8px;
+}
+.btn-bg{
+    background-color: #ff458f;
+    background-image: linear-gradient(to bottom, #ff458f 0%, #FF136F 100%);
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 25px;
+}
+.price{
+    color: #ff458f;
+}
